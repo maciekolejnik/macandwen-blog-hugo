@@ -80,13 +80,6 @@
   </url>
   
   <url>
-    <loc>http://macandwen.com/post/leith-hill/</loc>
-    <lastmod>2018-04-20T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>http://macandwen.com/post/two-days-trip-to-newquay/</loc>
     <lastmod>2018-04-11T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -96,6 +89,13 @@
   <url>
     <loc>http://macandwen.com/post/lets-see-if-this-works/</loc>
     <lastmod>2018-04-11T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://macandwen.com/post/leith-hill/</loc>
+    <lastmod>2018-02-17T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
