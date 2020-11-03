@@ -3,14 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://macandwen.com/post/covid-19-poland/</loc>
-    <lastmod>2020-06-02T00:00:00+00:00</lastmod>
+    <loc>http://macandwen.com/</loc>
+    <lastmod>2020-09-11T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://macandwen.com/</loc>
+    <loc>http://macandwen.com/post/bernia-ridge/</loc>
+    <lastmod>2020-09-11T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://macandwen.com/post/covid-19-poland/</loc>
     <lastmod>2020-06-02T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
